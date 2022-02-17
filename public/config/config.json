@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0xee3f4f8bfc207ae0625ad7d96859be42c0df82ad",
+  "SCAN_LINK": "https://rinkeby.etherscan.io/tx/0x5f8965c92640983680efdc8ec4ba9a811f0be478638396771195f6fc0458c986",
+  "NETWORK": {
+    "NAME": "POLYGON",
+    "SYMBOL": "MATIC",
+    "ID": 137
+  },
+  "NFT_NAME": "jhbang12",
+  "SYMBOL": "jhbNFT",
+  "MAX_SUPPLY": 50,
+  "WEI_COST": 4000000000000000000,
+  "DISPLAY_COST": 4,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "https://testnets.opensea.io/collection/jhbang12-1", 
+  "SHOW_BACKGROUND": true
+}
